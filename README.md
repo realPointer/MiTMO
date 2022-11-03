@@ -2,3 +2,4 @@
 
 1. [Оценка точности модели с непрерывной зависимой переменной](https://github.com/realPointer/MiTMO/tree/main/lab1)
 1. [Линейные модели. Кросс-валидация](https://github.com/realPointer/MiTMO/tree/main/lab2)
+1. [Методы снижения размерности. Регуляризация логистической регрессии](https://github.com/realPointer/MiTMO/tree/main/lab3)
