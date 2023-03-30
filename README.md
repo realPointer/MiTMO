@@ -6,3 +6,4 @@
 1. [Методы, основанные на деревьях решений. Деревья классификации. Случайный лес](https://github.com/realPointer/MiTMO/tree/main/lab4)
 1. [Машины опорных векторов](https://github.com/realPointer/MiTMO/tree/main/lab5)
 1. [Кластеризация](https://github.com/realPointer/MiTMO/tree/main/lab6)
+1. [Исследование факторов и организация работы с таблицами данных](https://github.com/realPointer/MiTMO/tree/main/lab7)
