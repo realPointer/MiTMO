@@ -7,3 +7,4 @@
 1. [Машины опорных векторов](https://github.com/realPointer/MiTMO/tree/main/lab5)
 1. [Кластеризация](https://github.com/realPointer/MiTMO/tree/main/lab6)
 1. [Исследование факторов и организация работы с таблицами данных](https://github.com/realPointer/MiTMO/tree/main/lab7)
+1. [Парсинг сайтов и анализ текстовой информации](https://github.com/realPointer/MiTMO/tree/main/lab8)
